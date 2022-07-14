@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my personal blog, my name is Fai.
 
-You can use the [editor on GitHub](https://github.com/fai-aher/fai-aher.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+'add some text'
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My description
 
-### Markdown
+I consider discipline is one of my greatest qualities as it is the pilar of my everyday behavior. I find learning being one of my main passions in life and I could describe myself as a lifelong learner. Currently, I am acquiring soft and technic skills through college and self-learning strategies. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a physically active person, I dedicate some time everyday for exercising and sometimes gather with other people to play volleyball.
+
+I like staying up to date with news around the world, watching videos related to geography and geopolitic topics, reading classic literature books, learning japanese through news, articles and university lessons, talking and meeting people as I consider I can get some valuable learning from everyone with just a short conversation. Social interaction in my life is as important as any other activity, I feel at ease when I get the opportunity to spare time with collegues or friends, no matter if it is because of work or leisure.
 
 ```markdown
-Syntax highlighted code block
+Some words to express my experience.
+```
+## Links to my social media
+[LinkedIn Profile](https://www.linkedin.com/in/faiber-hernandez-69b9661a6/) \
+[Github Profile](https://github.com/fai-aher) \
+[Platzi Profile](https://platzi.com/p/fai.aher/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Contact me
+```markdown
+e-mail: fai.ahernandez@pm.me
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fai-aher/fai-aher.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
